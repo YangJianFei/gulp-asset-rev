@@ -3,13 +3,13 @@ gulp auto to add version
 
 The gulp can run in node.js
 ## (1):
-  1.Download and install node.js.
-  2.add Package.json (npm init).
-  2.global install gulp (npm install --global gulp).
-  3.devDependencies install gulp (npm install --save-dev gulp).
-  4.add gulpfile.js ()
-    example:gulpfile1.js
-  finally:
+  1.Download and install node.js.  
+  2.add Package.json (npm init).  
+  2.global install gulp (npm install --global gulp).  
+  3.devDependencies install gulp (npm install --save-dev gulp).  
+  4.add gulpfile.js ()  
+    example:gulpfile1.js  
+  finally:  
     <link rel="stylesheet" href="./styles/test_0ede2cf.css" type="text/css" />
     <script src="./scripts/test_8ced4e6.js" type="text/javascript"></script> 
 ## (2):
