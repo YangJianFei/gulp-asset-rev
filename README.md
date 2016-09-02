@@ -22,12 +22,12 @@ The gulp can run in node.js
     var verStr = (options.verConnecter || "-") + md5;
 				src=src+"?v="+verStr;
         //src = src.replace(verStr, '').replace(/(\.[^\.]+)$/, verStr + "$1");
-  5.add gulpfile2.js ()
+  5.add gulpfile.js ()
     example:gulpfile1.js
   finally:
     <link href="../css/index.css?v=-6bf2ddf" rel="stylesheet" >
     <script src="../scripts/index.js?v=-9df0888"></script>
 ## friendship link
-  [http://www.cnblogs.com/hutuzhu/p/5276000.html](http://www.cnblogs.com/hutuzhu/p/5276000.html)
+  [http://www.cnblogs.com/hutuzhu/p/5276000.html](http://www.cnblogs.com/hutuzhu/p/5276000.html)\
   [http://www.reqianduan.com/3015.html](http://www.reqianduan.com/3015.html)
   
