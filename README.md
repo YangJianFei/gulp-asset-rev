@@ -25,8 +25,8 @@ The gulp can run in node.js
   5.add gulpfile.js ()  
     example:gulpfile1.js  
   finally:  
-    //<link href="../css/index.css?v=-6bf2ddf" rel="stylesheet" >  
-    //<script src="../scripts/index.js?v=-9df0888"></script>  
+    // href="../css/index.css?v=-6bf2ddf" rel="stylesheet"   
+    // src="../scripts/index.js?v=-9df0888"  
 ## friendship link
   1.[http://www.cnblogs.com/hutuzhu/p/5276000.html](http://www.cnblogs.com/hutuzhu/p/5276000.html)      
   
