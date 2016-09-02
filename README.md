@@ -10,8 +10,8 @@ The gulp can run in node.js
   4.add gulpfile.js ()  
     example:gulpfile1.js  
   finally:    
-    //<link rel="stylesheet" href="./styles/test_0ede2cf.css" type="text/css" />  
-    //<script src="./scripts/test_8ced4e6.js" type="text/javascript"></script>   
+    // rel="stylesheet" href="./styles/test_0ede2cf.css" type="text/css"   
+    // src="./scripts/test_8ced4e6.js" type="text/javascript"   
 ## (2):
   1.Download and install node.js.  
   2.add Package.json (npm init).  
